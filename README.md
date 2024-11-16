@@ -1,15 +1,12 @@
 
-# Basic Wine Cellar Site
+# Basic Drink Cellar Site
 
-![Wine Cellar Screenshot](template.png)
+![Drink Cellar Screenshot](template.png)
 
 ## Overview
-**Basic Wine Cellar Site** is a simple website designed to practice foundational web development skills using HTML, CSS, and JavaScript. This project focuses on creating a static yet functional interface for displaying and interacting with wine inventory. The goal is to reinforce core front-end concepts while building an aesthetically pleasing and intuitive layout.
+**Basic Drink Cellar Site** is a simple website designed to practice foundational web development skills using HTML, CSS, and JavaScript. This project focuses on creating a static yet functional interface for displaying drinks inventory. The goal is to reinforce core front-end concepts while building an aesthetically pleasing and intuitive layout.
 
 ## Features
-- Display a list of wines with names, vintages, and brief descriptions.
-- Simple UI for adding and removing wines.
-- Interactive elements for sorting and filtering wines based on categories.
 - Responsive design for optimal viewing across different devices.
 
 ## Technologies Used
@@ -50,7 +47,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Getting Started
-To explore and modify this basic wine cellar site, follow these steps:
+To explore and modify this basic drink cellar site, follow these steps:
 
 1. Clone the repository:
    ```bash
@@ -64,3 +61,5 @@ To explore and modify this basic wine cellar site, follow these steps:
 ---
 
 Happy coding and enjoy practicing HTML, CSS, and JavaScript!
+
+You can access the project [Drink Seller](https://adega-site-js.vercel.app/)
